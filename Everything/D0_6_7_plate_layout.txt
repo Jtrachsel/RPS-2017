@@ -1,0 +1,201 @@
+well	substrate	tissue	pig	day
+1	sulfate	feces		
+2	sulfate	feces		
+3	sulfate	feces		
+4	sulfate	feces	80	15
+5	sulfate	feces	79	15
+6	sulfate	feces	78	15
+7	sulfate	feces	77	15
+8	sulfate	feces	NTC	15
+9	sulfate	feces	75	15
+10	sulfate	feces	74	15
+11	sulfate	feces		
+12	sulfate	feces		
+13	sulfate	feces		
+14	sulfate	feces	73	15
+15	sulfate	feces	72	15
+16	sulfate	feces	71	15
+17	sulfate	feces	70	15
+18	sulfate	feces	69	15
+19	sulfate	feces	68	15
+20	sulfate	feces	67	15
+21	sulfate	feces		
+22	sulfate	feces		
+23	sulfate	feces		
+24	sulfate	feces	96	12
+25	sulfate	feces	95	12
+26	sulfate	feces	94	12
+27	sulfate	feces	93	12
+28	sulfate	feces	NTC	12
+29	sulfate	feces	91	12
+30	sulfate	feces	NTC	12
+31	sulfate	feces	96	15
+32	sulfate	feces	87	15
+33	sulfate	feces		
+34	sulfate	feces	87	12
+35	sulfate	feces	86	12
+36	sulfate	feces	85	12
+37	sulfate	feces	84	12
+38	sulfate	feces	83	12
+39	sulfate	feces	82	12
+40	sulfate	feces	NTC	12
+41	sulfate	feces	95	15
+42	sulfate	feces	86	15
+43	sulfate	feces		
+44	sulfate	feces	80	12
+45	sulfate	feces	NTC	12
+46	sulfate	feces	78	12
+47	sulfate	feces	77	12
+48	sulfate	feces	76	12
+49	sulfate	feces	75	12
+50	sulfate	feces	74	12
+51	sulfate	feces	94	15
+52	sulfate	feces	85	15
+53	sulfate	feces		
+54	sulfate	feces	73	12
+55	sulfate	feces	72	12
+56	sulfate	feces	71	12
+57	sulfate	feces	NTC	12
+58	sulfate	feces	69	12
+59	sulfate	feces	68	12
+60	sulfate	feces	67	12
+61	sulfate	feces	93	15
+62	sulfate	feces	84	15
+63	sulfate	feces		
+64	sulfate	feces	96	0
+65	sulfate	feces	95	0
+66	sulfate	feces	94	0
+67	sulfate	feces	93	0
+68	sulfate	feces	92	0
+69	sulfate	feces	91	0
+70	sulfate	feces	90	0
+71	sulfate	feces	NTC	15
+72	sulfate	feces	83	15
+73	sulfate	feces		
+74	sulfate	feces	87	0
+75	sulfate	feces	86	0
+76	sulfate	feces	85	0
+77	sulfate	feces	84	0
+78	sulfate	feces	83	0
+79	sulfate	feces	82	0
+80	sulfate	feces	81	0
+81	sulfate	feces	91	15
+82	sulfate	feces	NTC	15
+83	sulfate	feces		
+84	sulfate	feces	80	0
+85	sulfate	feces	79	0
+86	sulfate	feces	78	0
+87	sulfate	feces	77	0
+88	sulfate	feces	76	0
+89	sulfate	feces	75	0
+90	sulfate	feces	74	0
+91	sulfate	feces	90	15
+92	sulfate	feces	81	15
+93	sulfate	feces		0
+94	sulfate	feces	NTC	0
+95	sulfate	feces	72	0
+96	sulfate	feces	71	0
+97	sulfate	feces	NTC	0
+98	sulfate	feces	69	0
+99	sulfate	feces	68	0
+100	sulfate	feces	67	0
+101	sulfate	feces		
+102	sulfate	feces		
+103	sulfate	feces		
+104	sulfate	feces	80	15
+105	sulfate	feces	79	15
+106	sulfate	feces	78	15
+107	sulfate	feces	77	15
+108	sulfate	feces	NTC	15
+109	sulfate	feces	75	15
+110	sulfate	feces	74	15
+111	sulfate	feces		
+112	sulfate	feces		
+113	sulfate	feces		
+114	sulfate	feces	73	15
+115	sulfate	feces	72	15
+116	sulfate	feces	71	15
+117	sulfate	feces	70	15
+118	sulfate	feces	69	15
+119	sulfate	feces	68	15
+120	sulfate	feces	67	15
+121	sulfate	feces		
+122	sulfate	feces		
+123	sulfate	feces		
+124	sulfate	feces	96	12
+125	sulfate	feces	95	12
+126	sulfate	feces	94	12
+127	sulfate	feces	93	12
+128	sulfate	feces	NTC	12
+129	sulfate	feces	91	12
+130	sulfate	feces	NTC	12
+131	sulfate	feces	96	15
+132	sulfate	feces	87	15
+133	sulfate	feces		
+134	sulfate	feces	87	12
+135	sulfate	feces	86	12
+136	sulfate	feces	85	12
+137	sulfate	feces	84	12
+138	sulfate	feces	83	12
+139	sulfate	feces	82	12
+140	sulfate	feces	NTC	12
+141	sulfate	feces	95	15
+142	sulfate	feces	86	15
+143	sulfate	feces		
+144	sulfate	feces	80	12
+145	sulfate	feces	NTC	12
+146	sulfate	feces	78	12
+147	sulfate	feces	77	12
+148	sulfate	feces	76	12
+149	sulfate	feces	75	12
+150	sulfate	feces	74	12
+151	sulfate	feces	94	15
+152	sulfate	feces	85	15
+153	sulfate	feces		
+154	sulfate	feces	73	12
+155	sulfate	feces	72	12
+156	sulfate	feces	71	12
+157	sulfate	feces	NTC	12
+158	sulfate	feces	69	12
+159	sulfate	feces	68	12
+160	sulfate	feces	67	12
+161	sulfate	feces	93	15
+162	sulfate	feces	84	15
+163	sulfate	feces		
+164	sulfate	feces	96	0
+165	sulfate	feces	95	0
+166	sulfate	feces	94	0
+167	sulfate	feces	93	0
+168	sulfate	feces	92	0
+169	sulfate	feces	91	0
+170	sulfate	feces	90	0
+171	sulfate	feces	NTC	15
+172	sulfate	feces	83	15
+173	sulfate	feces		
+174	sulfate	feces	87	0
+175	sulfate	feces	86	0
+176	sulfate	feces	85	0
+177	sulfate	feces	84	0
+178	sulfate	feces	83	0
+179	sulfate	feces	82	0
+180	sulfate	feces	81	0
+181	sulfate	feces	91	15
+182	sulfate	feces	NTC	15
+183	sulfate	feces		
+184	sulfate	feces	80	0
+185	sulfate	feces	79	0
+186	sulfate	feces	78	0
+187	sulfate	feces	77	0
+188	sulfate	feces	76	0
+189	sulfate	feces	75	0
+190	sulfate	feces	74	0
+191	sulfate	feces	90	15
+192	sulfate	feces	81	15
+193	sulfate	feces		0
+194	sulfate	feces	NTC	0
+195	sulfate	feces	72	0
+196	sulfate	feces	71	0
+197	sulfate	feces	NTC	0
+198	sulfate	feces	69	0
+199	sulfate	feces	68	0
+200	sulfate	feces	67	0
