@@ -1,0 +1,201 @@
+well	substrate	tissue	pig	day
+1	A-D-glucopyranoside	feces	67	0
+2	A-D-glucopyranoside	feces	68	0
+3	A-D-glucopyranoside	feces	69	0
+4	A-D-glucopyranoside	feces	NTC	0
+5	A-D-glucopyranoside	feces	71	0
+6	A-D-glucopyranoside	feces	72	0
+7	A-D-glucopyranoside	feces	NTC	0
+8	A-D-glucopyranoside	feces		0
+9	A-D-glucopyranoside	feces	81	15
+10	A-D-glucopyranoside	feces	90	15
+11	A-D-glucopyranoside	feces	74	0
+12	A-D-glucopyranoside	feces	75	0
+13	A-D-glucopyranoside	feces	76	0
+14	A-D-glucopyranoside	feces	77	0
+15	A-D-glucopyranoside	feces	78	0
+16	A-D-glucopyranoside	feces	79	0
+17	A-D-glucopyranoside	feces	80	0
+18	A-D-glucopyranoside	feces		
+19	A-D-glucopyranoside	feces	NTC	15
+20	A-D-glucopyranoside	feces	91	15
+21	A-D-glucopyranoside	feces	81	0
+22	A-D-glucopyranoside	feces	82	0
+23	A-D-glucopyranoside	feces	83	0
+24	A-D-glucopyranoside	feces	84	0
+25	A-D-glucopyranoside	feces	85	0
+26	A-D-glucopyranoside	feces	86	0
+27	A-D-glucopyranoside	feces	87	0
+28	A-D-glucopyranoside	feces		
+29	A-D-glucopyranoside	feces	83	15
+30	A-D-glucopyranoside	feces	NTC	15
+31	A-D-glucopyranoside	feces	90	0
+32	A-D-glucopyranoside	feces	91	0
+33	A-D-glucopyranoside	feces	92	0
+34	A-D-glucopyranoside	feces	93	0
+35	A-D-glucopyranoside	feces	94	0
+36	A-D-glucopyranoside	feces	95	0
+37	A-D-glucopyranoside	feces	96	0
+38	A-D-glucopyranoside	feces		
+39	A-D-glucopyranoside	feces	84	15
+40	A-D-glucopyranoside	feces	93	15
+41	A-D-glucopyranoside	feces	67	12
+42	A-D-glucopyranoside	feces	68	12
+43	A-D-glucopyranoside	feces	69	12
+44	A-D-glucopyranoside	feces	NTC	12
+45	A-D-glucopyranoside	feces	71	12
+46	A-D-glucopyranoside	feces	72	12
+47	A-D-glucopyranoside	feces	73	12
+48	A-D-glucopyranoside	feces		
+49	A-D-glucopyranoside	feces	85	15
+50	A-D-glucopyranoside	feces	94	15
+51	A-D-glucopyranoside	feces	74	12
+52	A-D-glucopyranoside	feces	75	12
+53	A-D-glucopyranoside	feces	76	12
+54	A-D-glucopyranoside	feces	77	12
+55	A-D-glucopyranoside	feces	78	12
+56	A-D-glucopyranoside	feces	NTC	12
+57	A-D-glucopyranoside	feces	80	12
+58	A-D-glucopyranoside	feces		
+59	A-D-glucopyranoside	feces	86	15
+60	A-D-glucopyranoside	feces	95	15
+61	A-D-glucopyranoside	feces	NTC	12
+62	A-D-glucopyranoside	feces	82	12
+63	A-D-glucopyranoside	feces	83	12
+64	A-D-glucopyranoside	feces	84	12
+65	A-D-glucopyranoside	feces	85	12
+66	A-D-glucopyranoside	feces	86	12
+67	A-D-glucopyranoside	feces	87	12
+68	A-D-glucopyranoside	feces		
+69	A-D-glucopyranoside	feces	87	15
+70	A-D-glucopyranoside	feces	96	15
+71	A-D-glucopyranoside	feces	NTC	12
+72	A-D-glucopyranoside	feces	91	12
+73	A-D-glucopyranoside	feces	NTC	12
+74	A-D-glucopyranoside	feces	93	12
+75	A-D-glucopyranoside	feces	94	12
+76	A-D-glucopyranoside	feces	95	12
+77	A-D-glucopyranoside	feces	96	12
+78	A-D-glucopyranoside	feces		
+79	A-D-glucopyranoside	feces		
+80	A-D-glucopyranoside	feces		
+81	A-D-glucopyranoside	feces	67	15
+82	A-D-glucopyranoside	feces	68	15
+83	A-D-glucopyranoside	feces	69	15
+84	A-D-glucopyranoside	feces	70	15
+85	A-D-glucopyranoside	feces	71	15
+86	A-D-glucopyranoside	feces	72	15
+87	A-D-glucopyranoside	feces	73	15
+88	A-D-glucopyranoside	feces		
+89	A-D-glucopyranoside	feces		
+90	A-D-glucopyranoside	feces		
+91	A-D-glucopyranoside	feces	74	15
+92	A-D-glucopyranoside	feces	75	15
+93	A-D-glucopyranoside	feces	NTC	15
+94	A-D-glucopyranoside	feces	77	15
+95	A-D-glucopyranoside	feces	78	15
+96	A-D-glucopyranoside	feces	79	15
+97	A-D-glucopyranoside	feces	80	15
+98	A-D-glucopyranoside	feces		
+99	A-D-glucopyranoside	feces		
+100	A-D-glucopyranoside	feces		
+101	A-D-glucopyranoside	feces	67	19
+102	A-D-glucopyranoside	feces	68	19
+103	A-D-glucopyranoside	feces	69	19
+104	A-D-glucopyranoside	feces	70	19
+105	A-D-glucopyranoside	feces	71	19
+106	A-D-glucopyranoside	feces	72	19
+107	A-D-glucopyranoside	feces	73	19
+108	A-D-glucopyranoside	feces		
+109	A-D-glucopyranoside	cec_cont		
+110	A-D-glucopyranoside	cec_cont		
+111	A-D-glucopyranoside	feces	74	19
+112	A-D-glucopyranoside	feces	75	19
+113	A-D-glucopyranoside	feces	76	19
+114	A-D-glucopyranoside	feces	77	19
+115	A-D-glucopyranoside	feces	78	19
+116	A-D-glucopyranoside	feces	79	19
+117	A-D-glucopyranoside	feces	NTC	19
+118	A-D-glucopyranoside	feces		
+119	A-D-glucopyranoside	cec_cont		
+120	A-D-glucopyranoside	cec_cont		
+121	A-D-glucopyranoside	feces	81	19
+122	A-D-glucopyranoside	feces	NTC	19
+123	A-D-glucopyranoside	feces	83	19
+124	A-D-glucopyranoside	feces	84	19
+125	A-D-glucopyranoside	feces	85	19
+126	A-D-glucopyranoside	feces	86	19
+127	A-D-glucopyranoside	feces	87	19
+128	A-D-glucopyranoside	feces		
+129	A-D-glucopyranoside	cec_cont		
+130	A-D-glucopyranoside	cec_cont		
+131	A-D-glucopyranoside	feces	NTC	19
+132	A-D-glucopyranoside	feces	91	19
+133	A-D-glucopyranoside	feces	NTC	19
+134	A-D-glucopyranoside	feces	93	19
+135	A-D-glucopyranoside	feces	94	19
+136	A-D-glucopyranoside	feces	95	19
+137	A-D-glucopyranoside	feces	96	19
+138	A-D-glucopyranoside	feces		
+139	A-D-glucopyranoside	cec_cont		
+140	A-D-glucopyranoside	cec_cont		
+141	A-D-glucopyranoside	feces	67	21
+142	A-D-glucopyranoside	feces	68	21
+143	A-D-glucopyranoside	feces	69	21
+144	A-D-glucopyranoside	feces	70	21
+145	A-D-glucopyranoside	feces	71	21
+146	A-D-glucopyranoside	feces	72	21
+147	A-D-glucopyranoside	feces	73	21
+148	A-D-glucopyranoside	feces		
+149	A-D-glucopyranoside	cec_cont		
+150	A-D-glucopyranoside	cec_cont		
+151	A-D-glucopyranoside	feces	74	21
+152	A-D-glucopyranoside	feces	75	21
+153	A-D-glucopyranoside	feces	76	21
+154	A-D-glucopyranoside	feces	77	21
+155	A-D-glucopyranoside	feces	78	21
+156	A-D-glucopyranoside	feces	79	21
+157	A-D-glucopyranoside	feces	80	21
+158	A-D-glucopyranoside	feces		
+159	A-D-glucopyranoside	cec_cont		
+160	A-D-glucopyranoside	cec_cont		
+161	A-D-glucopyranoside	feces	81	21
+162	A-D-glucopyranoside	feces	82	21
+163	A-D-glucopyranoside	feces	83	21
+164	A-D-glucopyranoside	feces	84	21
+165	A-D-glucopyranoside	feces	85	21
+166	A-D-glucopyranoside	feces	86	21
+167	A-D-glucopyranoside	feces	87	21
+168	A-D-glucopyranoside	feces		
+169	A-D-glucopyranoside	cec_cont		
+170	A-D-glucopyranoside	cec_cont		
+171	A-D-glucopyranoside	feces	90	21
+172	A-D-glucopyranoside	feces	91	21
+173	A-D-glucopyranoside	feces	92	21
+174	A-D-glucopyranoside	feces	93	21
+175	A-D-glucopyranoside	feces	94	21
+176	A-D-glucopyranoside	feces	95	21
+177	A-D-glucopyranoside	feces	96	21
+178	A-D-glucopyranoside	feces		
+179	A-D-glucopyranoside	feces		
+180	A-D-glucopyranoside	feces		
+181	A-D-glucopyranoside	cec_cont	67	21
+182	A-D-glucopyranoside	cec_cont	68	21
+183	A-D-glucopyranoside	cec_cont	69	21
+184	A-D-glucopyranoside	cec_cont	70	21
+185	A-D-glucopyranoside	cec_cont	71	21
+186	A-D-glucopyranoside	cec_cont	72	21
+187	A-D-glucopyranoside	cec_cont	73	21
+188	A-D-glucopyranoside	feces		
+189	A-D-glucopyranoside	feces		
+190	A-D-glucopyranoside	feces		
+191	A-D-glucopyranoside	cec_cont	74	21
+192	A-D-glucopyranoside	cec_cont	75	21
+193	A-D-glucopyranoside	cec_cont	76	21
+194	A-D-glucopyranoside	cec_cont	77	21
+195	A-D-glucopyranoside	cec_cont	78	21
+196	A-D-glucopyranoside	cec_cont	79	21
+197	A-D-glucopyranoside	cec_cont	80	21
+198	A-D-glucopyranoside	feces		
+199	A-D-glucopyranoside	feces		
+200	A-D-glucopyranoside	feces		
