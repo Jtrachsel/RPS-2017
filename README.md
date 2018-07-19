@@ -6,12 +6,17 @@ All of the analysis code is in the file FS2.R.  Hopefully it is somewhat underst
 
 Several of the functions used in this analysis are housed in my package "funfuns".  
 This package can be installed by using the following commands:  
-(if you don't have devtools run `install.packages('devtools')` first)
-`library(devtools)`  
-`install_github('Jtrachsel/funfuns')`  
+(if you don't have devtools run `install.packages('devtools')`)
+
+`devtools::install_github('Jtrachsel/funfuns')`  
 `library(funfuns)`  
   
 All of the funcitons should have documentation with them that can be accessed using `?`. For example: `?NMDS_ellipse()`
+
+Additionally you will need to install my package `ggscinames`  
+Documentation is available at https://github.com/Jtrachsel/ggscinames  
+Install using: `install.packages('grid')` and `devtools::install_github('Jtrachsel/ggscinames')`  
+
 
 ### File descriptions 
 many of these files are written out by the FS2.R script itself just for my convenience.  I'm sure there's a better way of organizing this and hopefully I'll be able to get around to that one day. 
