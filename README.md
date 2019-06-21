@@ -1,7 +1,7 @@
 # resistant-starch
 
-### This is the code associated with the submission to Mucosal Immunology titled: 
-## Raw potato starch fuels beneficial host microbe interactions in the gut 
+### This is the code associated with the submission to Frontiers in Immunology titled: 
+## Dietary Resistant Potato Starch Alters Intestinal Microbial Communities and Their Metabolites, and Markers of Immune Regulation and Barrier Function in Swine  
 All of the analysis code is in the file FS2.R.  Hopefully it is somewhat understandable.  Suggestions are welcome.  
 
 Several of the functions used in this analysis are housed in my package "funfuns".  
